@@ -1,0 +1,20 @@
+body {
+    background-color: #222222;
+			}
+
+#wsun {
+   float: right;
+    
+}
+#facebook{
+ 
+  float: left;
+    background: #FFF;
+}
+
+#slider{
+    position: absolute;
+    left:-292 px;
+    top: 350px;
+    
+}
